@@ -1,0 +1,9 @@
+package ConfigCompiler;
+
+enum TokenType {
+    LEFT_PAREN, RIGHT_PAREN, LEFT_BRACE, RIGHT_BRACE,
+    COMMA, SEMICOLON, EQUAL,
+    NUMBER, STRING, NAME,
+    CONST, BANG, PLUS, MINUS, STAR, SLASH, POW, SORT,
+    EOF
+}

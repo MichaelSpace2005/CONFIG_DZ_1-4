@@ -1,0 +1,5 @@
+@{
+'message','Hello, world!',
+'complexString',"String with spaces, and 'single quotes', and \"double quotes\"",
+'anotherString','It\'s a string with an escaped quote'
+};
